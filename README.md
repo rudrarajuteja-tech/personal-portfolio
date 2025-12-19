@@ -1,4 +1,4 @@
-# Personal Portfolio Website 🌐
+# Personal Portfolio Website 
 
 This is my personal portfolio website built using HTML and CSS.
 It showcases my skills, education, and contact details in a simple and clean design.
